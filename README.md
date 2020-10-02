@@ -1,4 +1,17 @@
-# Tutorama
+# Tutorama 
+
+# Screenshots
+
+![sign-up](https://github.com/katebatrakova/Tutorama/blob/master/public/images/signup.png?raw=true)
+![homepage1](https://github.com/katebatrakova/Tutorama/blob/master/public/images/homepage.png?raw=true)
+![search-results](https://github.com/katebatrakova/Tutorama/blob/master/public/images/searchresult.png?raw=true)
+![tutor-profile](https://github.com/katebatrakova/Tutorama/blob/master/public/images/tutorprofile.png?raw=true)
+![leave-feedback](https://github.com/katebatrakova/Tutorama/blob/master/public/images/feedback.png?raw=true)
+![reviews](https://github.com/katebatrakova/Tutorama/blob/master/public/images/reviews.png?raw=true)
+![student-profile](https://github.com/katebatrakova/Tutorama/blob/master/public/images/profile.png?raw=true)
+![edit-profile](https://github.com/katebatrakova/Tutorama/blob/master/public/images/editprofile.png?raw=true)
+
+# Project description
 
 So, you want to learn Calculus, Accounting, or Biology? Or maybe improve existing knowledge in French, Poetry or even Web Design? If yes, then Tutorama is here to help you reach your fullest potential. Tutorama App is a platform that makes it easy for students to search for a best-fit tutor in the area, view their subjects, qualifications, rates, and real reviews. With this app, a student can easily connect with a preferred tutor for extra support through real-time messages and set up a private session at a convenient time and place. So go on - get searching, there’s a tutor for everyone!
 
